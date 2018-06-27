@@ -13,7 +13,7 @@ Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning
 
 Here is a video showing a trained network playing breakout (using an earlier version of the code):
 
- http://youtu.be/SZ88F82KLX4
+http://youtu.be/SZ88F82KLX4
 
 # Dependencies
 
